@@ -12,7 +12,7 @@ So I created the App using create-react-app command, and I create three componen
 * Style: I used a pure CSS, and make it as much as mobile responsoble.
 * Time: It takes about four hours.
 
- 
+ ![](Screen Shot 2019-05-19 at 7.31.48 AM)
 # To run the app:
     - clone it
     - npm install 
