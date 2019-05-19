@@ -1,5 +1,5 @@
 # ny-Times
-Get the most most popular articles in NY-Times 
+Get the most popular articles in NY-Times 
 
 * It's a simple app bult with the React Framework to get the NY Times Most Popular Articles  and show a list of articles,
 This app deal in CLIENT side only.
